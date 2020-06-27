@@ -3,4 +3,4 @@ A social network for developers. A pedagogical application built with the MERN s
 
 Visit site [https://rocky-sierra-41169.herokuapp.com/](https://rocky-sierra-41169.herokuapp.com/).
 
-![Dev Connector Screenshot](./assets/images/screenshot.png)
+![Dev Connector Screenshot](./screenshot.png)
