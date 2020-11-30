@@ -27,10 +27,10 @@ Visit site [here](https://rocky-sierra-41169.herokuapp.com/).
   * [Questions](#questions)
   
 ## Installation
-Clone project to a directory on your local machine and cd into directory.  Run <$ npm install> to install dependencies.  See package.json for other available scripts.
+Clone project to a directory on your local machine and cd into devConnector directory.  Run <$ npm install> to install dependencies.  See package.json for other available scripts.
 
 ## Usage
-Run <$ npm run dev> to launch application and launch on localhost development server.  Create a profile or log in guest account with email: guest@example.com and password: 'password123'.  Complete profile forms to add user details.  Add posts.  Leave Comments.  View other developer profiles.
+Run <$ npm run dev> to launch application and launch on localhost development server.  Create a profile or log in guest account with email: 'guest@example.com' and password: 'password123'.  Complete profile forms to add user details.  Add posts.  Leave Comments.  View other developer profiles.
 
 ## License 
 This project is covered under the MIT license 
