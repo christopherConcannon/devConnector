@@ -1,4 +1,3 @@
-
 # Dev Connector
 
 ![MIT license badge](https://img.shields.io/badge/license-MIT-green)
@@ -15,7 +14,7 @@ A social network for developers. A pedagogical application built with the MERN s
 ##### Developer Single Profile View
 ![Developer Single Profile View Screenshot](./assets/images/screenshot4.png)
 
-Visit site [here](https://rocky-sierra-41169.herokuapp.com/).
+Visit site [here](https://dev-connector-xo.herokuapp.com/).
 
 ## Table of Contents
   * [Installation](#installation)
