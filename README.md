@@ -3,7 +3,7 @@
 ![MIT license badge](https://img.shields.io/badge/license-MIT-green)
 
 ## Description
-A social network for developers. A pedagogical application built with the MERN stack allowing user to create a developer profile/portfolio, share posts and get help from other developers.  Built with the MERN stack
+A social network for developers. A pedagogical application built with the MERN stack allowing user to create a developer profile/portfolio, share posts and get help from other developers.  Built with the MERN stack.
 
 ##### Homescreen
 ![Homescreen Screenshot](./assets/images/screenshot.png)
